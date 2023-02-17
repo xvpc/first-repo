@@ -1,0 +1,10 @@
+h1{
+    font-size: 50px;
+    color: lightblue;
+}
+p{
+    font-size: 30px;
+    text-decoration: dotted;
+    color: white;
+    background-color: darkcyan;
+}
